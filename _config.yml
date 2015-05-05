@@ -1,5 +1,5 @@
 # Site settings
-title: Grayscale
+title: Erik and Maureen's Wedding
 email: kipp.william.johnson@gmail.com
 url: http://erikandmaureen.com
 description: "The Wedding website for Erik Johnson and Maureen Fitzpatrick!"
@@ -13,17 +13,17 @@ color:
 footer: Erik Johnson and Maureen Fitzpatrick
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+#social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
 
 # Build settings
 markdown: kramdown
