@@ -270,7 +270,7 @@ a:focus {
     padding: 100px 0;
     color: #fff;
     font-weight: 700;
-    background: url(/img/nativity-blur-bw.png) no-repeat center center scroll;
+    background: url(/img/nativity-blur-bw2.png) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
