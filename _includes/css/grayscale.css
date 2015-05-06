@@ -21,8 +21,8 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+h5
+{
     margin: 0 0 35px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -138,7 +138,8 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/Grayscale.png) no-repeat bottom center scroll;
+/*    background: url(/img/Grayscale.png) no-repeat bottom center scroll; */
+    background: url(/img/Color.PNG) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -166,7 +167,7 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 100px;
+        font-size: 72px;
     }
 
     .intro .intro-body .intro-text {
@@ -364,4 +365,14 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+
+
+th {
+    text-align: center;
+}
+
+table {
+    border-spacing: 5px;
 }
