@@ -384,19 +384,20 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-.table-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-	font-size: 24px;
-	
-	th, tr, td {
-	    text-align: left;
-	}
+/*.table-section {
+*    width: 100%;
+*    padding: 50px 0;
+*    color: #fff;
+*	font-size: 24px;
+*	
+*	th, tr, td {
+*	    text-align: left;
+*	}
+*
+*	table {
+*	    border-spacing: 5px;
+*	    text-align: left;
+*	}
+*
+}*/
 
-	table {
-	    border-spacing: 5px;
-	    text-align: left;
-	}
-
-}
