@@ -25,7 +25,7 @@ h5
 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: Lora,Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -250,12 +250,12 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 0px;
+    padding-top: 100px;
 }
 
 .download-section {
     width: 100%;
-    padding: 30px 0;
+    padding: 50px 0;
     color: #fff;
     background: url(/img/ring-bw.png) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
@@ -267,7 +267,7 @@ a:focus {
 
 .weddingday-section {
     width: 100%;
-    padding: 30px 0;
+    padding: 100px 0;
     color: #fff;
     background: url(/img/nativity-blur-bw2.png) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
@@ -286,15 +286,15 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 60px;
+        padding-top: 200px;
     }
 
     .download-section {
-        padding: 30px 0;
+        padding: 100px 0;
     }
 	
     .weddingday-section {
-        padding: 30px 0;
+        padding: 100px 0;
     }
 
     #map {
